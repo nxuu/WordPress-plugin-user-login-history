@@ -5,7 +5,7 @@ Tags: Login Log,Online User,Login Form Security,Report,Brute Force Detector
 Requires at least: 4.9.0
 Requires PHP: 5.5
 Tested up to: 5.0.0
-Version: 1.7.0
+Version: 1.7.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
