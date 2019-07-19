@@ -1,0 +1,750 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: User Login History\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-19 01:23+0000\n"
+"PO-Revision-Date: 2019-07-19 02:50+0000\n"
+"Last-Translator: nxuu\n"
+"Language-Team: 简体中文\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-4.7.13"
+
+#: public/class-faulh-public-list-table.php:212
+msgid "&laquo;"
+msgstr "«"
+
+#: public/class-faulh-public-list-table.php:213
+msgid "&raquo;"
+msgstr "»"
+
+#: includes/class-faulh-template-helper.php:91
+msgid "(Basic Version)"
+msgstr "基础版本"
+
+#: admin/class-faulh-admin-setting.php:111
+msgid "(Not Recommended)"
+msgstr "不建议"
+
+#: admin/partials/help.php:50
+msgid "A valid date format. Default is:"
+msgstr "有效的日期格式.默认是:"
+
+#: admin/partials/help.php:51
+msgid "A valid time format. Default is:"
+msgstr "有效的时间格式.默认是:"
+
+#: admin/class-faulh-admin.php:272 admin/class-faulh-admin-menu.php:71
+#: admin/class-faulh-admin-menu.php:71
+msgid "About"
+msgstr "关于"
+
+#: includes/class-faulh-template-helper.php:95
+msgid "About Author"
+msgstr "关于作者"
+
+#: admin/partials/about.php:48
+msgid "Advanced Search Filter"
+msgstr "高级搜索筛选"
+
+#: admin/class-faulh-admin-setting.php:70
+msgid "Advanced Settings"
+msgstr "高级设置"
+
+#: admin/partials/help.php:32
+msgid "Advanced Usage of Shortcode:"
+msgstr "短代码的高级用法："
+
+#: public/class-faulh-public-list-table.php:681
+#: includes/class-faulh-abstract-list-table.php:346
+msgid "ago"
+msgstr "之前"
+
+#: public/partials/listing.php:53
+msgid "Apply"
+msgstr "应用"
+
+#: admin/class-faulh-admin.php:109
+msgid "Are your sure?"
+msgstr "你确定么?"
+
+#: admin/partials/help.php:55
+msgid "Available Column Keys:"
+msgstr "可用列键："
+
+#: admin/partials/about.php:38 admin/partials/about.php:39
+msgid "Based on IP Address"
+msgstr "基于IP地址"
+
+#: admin/class-faulh-admin-setting.php:66
+msgid "Basic Settings"
+msgstr "基础设置"
+
+#: admin/partials/settings/network-admin.php:19
+msgid "Block User"
+msgstr "阻止用户"
+
+#: includes/class-faulh-template-helper.php:153 admin/partials/help.php:84
+msgid "Blocked"
+msgstr "已阻止"
+
+#: includes/class-faulh-db-helper.php:71
+#: includes/class-faulh-abstract-list-table.php:528
+#: admin/partials/form/filter.php:33
+msgid "Blog ID"
+msgstr "博客ID"
+
+#: includes/class-faulh-db-helper.php:60
+#: includes/class-faulh-abstract-list-table.php:515 admin/partials/about.php:35
+msgid "Browser"
+msgstr "浏览器"
+
+#: admin/partials/help.php:96
+msgid "Bug Fixes:"
+msgstr "错误修复"
+
+#: public/class-faulh-public-list-table.php:359
+msgid "Country"
+msgstr "国家"
+
+#: includes/class-faulh-db-helper.php:59
+msgid "Country (?)"
+msgstr "国家(?)"
+
+#: includes/class-faulh-abstract-list-table.php:518
+msgid "Country Code"
+msgstr "国家代码"
+
+#: includes/class-faulh-abstract-list-table.php:517
+msgid "Country Name"
+msgstr "国家名称"
+
+#: admin/partials/about.php:38
+msgid "Country Name and Country Code"
+msgstr "国家名称和国家代码"
+
+#: admin/partials/about.php:49
+msgid "CSV Export"
+msgstr "导出至CSV文件"
+
+#: includes/class-faulh-db-helper.php:56
+#: includes/class-faulh-abstract-list-table.php:511 admin/partials/about.php:33
+msgid "Current Role"
+msgstr "当前角色"
+
+#: admin/partials/about.php:53
+msgid ""
+"Currently, this plugin is available in two languages i.e. English and "
+"Italian."
+msgstr "目前，这个插件有两种语言，即英语和意大利语。"
+
+#: admin/partials/help.php:48
+msgid ""
+"Custom URI of the listing page. For the input \"my-login-history\", it will "
+"render a reset link with the following URL:"
+msgstr "列表页的自定义URI。对于输入“我的登录历史记录”，它将呈现具有以下URL的重置链接："
+
+#: admin/partials/help.php:49
+msgid "Default is the full permalink of the current post or page."
+msgstr "默认值是当前文章或页面的完整永久链接。"
+
+#: includes/class-faulh-abstract-list-table.php:435
+msgid "Delete All Records"
+msgstr "删除所有记录"
+
+#: includes/class-faulh-abstract-list-table.php:434
+msgid "Delete Selected Records"
+msgstr "删除选定的记录"
+
+#: admin/partials/help.php:60
+msgid "Deprecated Shortcode (Since 1.7.0)"
+msgstr "已弃用的短代码（自1.7.0起）"
+
+#: admin/partials/help.php:61
+msgid ""
+"Do not use the following shortcode as it is deprecated and will be removed "
+"in future."
+msgstr "不要使用下面的短代码，因为它已被弃用，将来将被删除。"
+
+#: admin/partials/about.php:57
+msgid "Do you want to translate this plugin to another language?"
+msgstr "是否要将此插件转换为其他语言？"
+
+#: includes/class-faulh-template-helper.php:170 admin/partials/about.php:80
+msgid "Donate"
+msgstr "捐赠"
+
+#: admin/partials/form/filter.php:87
+msgid "DOWNLOAD CSV"
+msgstr "下载CSV文件"
+
+#: admin/partials/about.php:55
+msgid "Download Language Files"
+msgstr "下载语言包"
+
+#: includes/class-faulh-db-helper.php:64
+#: includes/class-faulh-abstract-list-table.php:520
+msgid "Duration"
+msgstr "持续时间"
+
+#: includes/class-faulh-abstract-list-table.php:120
+msgid "Edit"
+msgstr "编辑"
+
+#: admin/class-faulh-admin-setting.php:112
+msgid ""
+"Enable tracking of country and timezone. This functionality is dependent on "
+"a free third-party API service, hence not recommended. For more info, see "
+"the \"Help\" page under the plugin menu."
+msgstr "启用国家和时区跟踪。此功能依赖于免费的第三方API服务，因此不推荐使用。有关详细信息，请参阅插件菜单下的“帮助”页面。"
+
+#: admin/partials/form/filter.php:29
+msgid "Enter Browser"
+msgstr "输入浏览器"
+
+#: admin/partials/form/filter.php:28
+msgid "Enter Country"
+msgstr "输入国家"
+
+#: admin/partials/form/filter.php:31
+msgid "Enter IP Address"
+msgstr "输入IP地址"
+
+#: admin/partials/form/filter.php:30
+msgid "Enter Operating System"
+msgstr "输入操作系统"
+
+#: admin/partials/form/filter.php:26
+msgid "Enter User ID"
+msgstr "输入用户ID"
+
+#: admin/partials/form/filter.php:27
+msgid "Enter Username"
+msgstr "输入用户名"
+
+#. Author of the plugin
+msgid "Er Faiyaz Alam"
+msgstr "阿拉姆"
+
+#: includes/class-faulh-template-helper.php:149 admin/partials/help.php:81
+msgid "Failed"
+msgstr "失败的"
+
+#: public/partials/listing.php:29 admin/partials/form/filter.php:93
+msgid "FILTER"
+msgstr "过滤器"
+
+#: public/partials/listing.php:17 admin/partials/form/filter.php:19
+msgid "From"
+msgstr "从"
+
+#: admin/class-faulh-admin-setting.php:111
+msgid "Geo Tracker"
+msgstr "地理追踪器"
+
+#: admin/partials/help.php:65
+msgid "Geo Tracking"
+msgstr "地理跟踪"
+
+#: admin/class-faulh-admin.php:273 admin/class-faulh-admin-menu.php:72
+#: admin/class-faulh-admin-menu.php:72
+msgid "Help"
+msgstr "帮助"
+
+#. Description of the plugin
+msgid ""
+"Helps you to know your website's visitors by tracking their login related "
+"information like login/logout time, country, browser and many more."
+msgstr "通过跟踪与登录相关的信息，如登录/注销时间、国家/地区、浏览器等，帮助您了解网站的访问者。"
+
+#: admin/partials/help.php:44
+msgid ""
+"Here is the list of all the parameters that you can use in the shortcode. "
+"All the parameters are optional."
+msgstr "下面是您可以在短代码中使用的所有参数的列表。所有参数都是可选的。"
+
+#: admin/partials/about.php:30
+msgid "How long the user stayed on your website per session."
+msgstr "每次会话用户在您的网站上停留的时间。"
+
+#: admin/partials/help.php:18
+msgid "How to use the plugin?"
+msgstr "如何使用插件？"
+
+#. Author URI of the plugin
+msgid "https://github.com/faiyazalam"
+msgstr "https://github.com/faiyazalam"
+
+#: admin/partials/about.php:62
+msgid "I Am Here!"
+msgstr "我在这里!"
+
+#: admin/partials/about.php:58
+#, php-format
+msgid ""
+"I recommend using %1$sPOEdit%2$s or if you prefer to do it straight from the "
+"WordPress admin interface use %3$sLoco Translate%4$s.\n"
+"When you’re done, send us the file(s) and I’ll add it to the official plugin."
+" You can also translate the plugin %5$sOnline%6$s."
+msgstr ""
+"我建议您使用POEdit软件，或者如果您想直接从WordPress管理界面执行，请使用Loco "
+"Translate插件。翻译完成后，将文件发送给我们，我会将其添加到官方插件中。您还可以在线翻译插件。"
+
+#: admin/class-faulh-admin-setting.php:98
+msgid "Idle"
+msgstr "空闲"
+
+#: admin/partials/help.php:78
+msgid "If user clicks on logout button and gets logged out successfully."
+msgstr "如果用户单击注销按钮并成功注销。"
+
+#: admin/partials/help.php:81
+msgid "If user enters invalid credentials."
+msgstr "如果用户输入的凭据无效。"
+
+#: admin/partials/help.php:75
+msgid "If user gets logged in successfully."
+msgstr "如果用户成功登录。"
+
+#: admin/partials/help.php:97
+msgid ""
+"If you find any bug, please create a topic with a step by step description "
+"on how to reproduce the bug."
+msgstr "如果您发现了任何错误，请创建一个主题，并逐步描述如何重现错误。"
+
+#: admin/partials/help.php:66
+msgid "If you have a paid service, you can contact us to integrate it."
+msgstr "如果您有付费服务，可以联系我们进行整合。"
+
+#: admin/partials/help.php:93
+msgid ""
+"In case, a user logs in with \"Remember Me\" and then closes his browser "
+"without doing logout, it will show the login status as \"Logged in\"."
+msgstr "如果用户使用“记住我”登录，然后关闭浏览器而不注销，则登录状态将显示为“已登录”。"
+
+#: admin/partials/help.php:30 admin/partials/help.php:35
+msgid "In your content:"
+msgstr "在您的内容中："
+
+#: admin/partials/help.php:28 admin/partials/help.php:33
+msgid "In your template file:"
+msgstr "在模板文件中："
+
+#: includes/class-faulh-db-helper.php:58
+#: includes/class-faulh-abstract-list-table.php:513 admin/partials/about.php:37
+msgid "IP Address"
+msgstr "IP地址"
+
+#: includes/class-faulh-db-helper.php:68
+msgid "It may show \"Logged in\", if user does not logout properly."
+msgstr "如果用户没有正确注销，它可能会显示“已登录”。"
+
+#: includes/class-faulh-abstract-list-table.php:521
+#: includes/class-faulh-template-helper.php:25 admin/partials/about.php:27
+msgid "Last Seen"
+msgstr "最后看到"
+
+#: includes/class-faulh-db-helper.php:65
+msgid "Last Seen (?)"
+msgstr "最后看到(?)"
+
+#: admin/partials/about.php:27
+msgid "Last Seen Date-Time"
+msgstr "最后看到日期-时间"
+
+#: includes/class-faulh-db-helper.php:65
+msgid "Last seen time in the session"
+msgstr "上次在会话中看到的时间"
+
+#: admin/partials/about.php:77
+msgid "Like My Work?"
+msgstr "喜欢我的工作么?"
+
+#: admin/partials/help.php:53
+msgid ""
+"List of column keys used to render columns on the listing table. Default "
+"keys are:"
+msgstr "用于在列表表上呈现列的列键列表。默认键是："
+
+#: includes/class-faulh-template-helper.php:147
+msgid "Logged In"
+msgstr "一登录"
+
+#: admin/partials/help.php:75
+msgid "Logged in"
+msgstr "已登录"
+
+#: admin/partials/about.php:28
+msgid "Logged in/Logged out/Failed/Blocked"
+msgstr "已登录/已注销/已失败/已阻止"
+
+#: includes/class-faulh-template-helper.php:148
+msgid "Logged Out"
+msgstr "已注销"
+
+#: admin/partials/help.php:78
+msgid "Logged out"
+msgstr "已注销"
+
+#: includes/class-faulh-db-helper.php:66
+#: includes/class-faulh-abstract-list-table.php:522
+#: includes/class-faulh-template-helper.php:23 admin/partials/about.php:25
+msgid "Login"
+msgstr "登录"
+
+#: admin/partials/about.php:25
+msgid "Login Date-Time"
+msgstr "登录日期-时间"
+
+#: admin/class-faulh-admin.php:271 admin/class-faulh-admin-menu.php:70
+#: admin/class-faulh-admin-menu.php:70 admin/partials/listing.php:12
+msgid "Login List"
+msgstr "登录列表"
+
+#: includes/class-faulh-abstract-list-table.php:524 admin/partials/about.php:28
+msgid "Login Status"
+msgstr "登录状态"
+
+#: includes/class-faulh-db-helper.php:68
+msgid "Login Status (?)"
+msgstr "登录状态(?)"
+
+#: admin/partials/help.php:72
+msgid "Login Statuses"
+msgstr "登录状态"
+
+#: includes/class-faulh-db-helper.php:67
+#: includes/class-faulh-abstract-list-table.php:523
+#: includes/class-faulh-template-helper.php:24 admin/partials/about.php:26
+msgid "Logout"
+msgstr "注销"
+
+#: admin/partials/about.php:26
+msgid "Logout Date-Time"
+msgstr "注销日期-时间"
+
+#: admin/class-faulh-admin-setting.php:99
+msgid ""
+"Maximum number of minutes for idle users. This should be greater than that "
+"of online users. Default is"
+msgstr "空闲用户的最大分钟数。这应该比在线用户大。默认是"
+
+#: admin/class-faulh-admin-setting.php:88
+msgid "Maximum number of minutes for online users. Default is"
+msgstr "联机用户的最大分钟数。默认为"
+
+#: admin/partials/settings/network-admin.php:28
+msgid "Message for Blocked User"
+msgstr "阻止用户消息"
+
+#: admin/partials/about.php:46
+msgid "Multisite Network (Since version 1.7.0)"
+msgstr "多站点网络（自1.7.0版起）"
+
+#: admin/partials/help.php:48
+msgid "my-login-history"
+msgstr "我的-登录-历史"
+
+#: admin/partials/settings/network-admin.php:14
+msgid "Network Settings"
+msgstr "网络设置"
+
+#: includes/class-faulh-template-helper.php:137
+msgid "No"
+msgstr "不"
+
+#: public/class-faulh-public-list-table.php:478
+msgid "No columns is selected to display."
+msgstr "未选择要显示的列。"
+
+#: includes/class-faulh-abstract-list-table.php:91
+msgid "No records avaliable."
+msgstr "无可用记录"
+
+#: admin/partials/help.php:27
+msgid "Normal Usage of Shortcode:"
+msgstr "短代码的正常使用："
+
+#: admin/partials/help.php:93
+msgid "Note"
+msgstr "注意"
+
+#: admin/partials/help.php:47
+msgid "Number of records per page. Default is:"
+msgstr "每页记录数。默认为："
+
+#: includes/class-faulh-abstract-list-table.php:512 admin/partials/about.php:34
+msgid "Old Role"
+msgstr "老角色"
+
+#: includes/class-faulh-db-helper.php:57
+msgid "Old Role (?)"
+msgstr "老角色 (?)"
+
+#: admin/partials/about.php:46
+msgid ""
+"On the network admin area, you can see the listing table which shows all the "
+"records fetched from all the blogs of the current network."
+msgstr "在网络管理区域，您可以看到列表表，其中显示从当前网络的所有博客中提取的所有记录。"
+
+#: admin/class-faulh-admin-setting.php:87
+msgid "Online"
+msgstr "在线"
+
+#: admin/partials/about.php:29
+msgid "Online Status"
+msgstr "在线状态"
+
+#: admin/partials/about.php:29
+msgid "Online/Offline/Idle"
+msgstr "在线/离线/空闲"
+
+#: includes/class-faulh-db-helper.php:61
+#: includes/class-faulh-abstract-list-table.php:516 admin/partials/about.php:36
+msgid "Operating System"
+msgstr "操作系统"
+
+#: public/class-faulh-public.php:70 admin/class-faulh-admin.php:110
+msgid "Please provide a valid date range."
+msgstr "请提供有效的日期范围。"
+
+#: admin/partials/help.php:98
+msgid "Please search the forum before creating a new topic."
+msgstr "请在创建新主题之前在论坛搜索。"
+
+#: admin/partials/about.php:44
+msgid "Preferable Timezone"
+msgstr "首选时区"
+
+#: admin/class-faulh-admin.php:143
+msgid "Record deleted."
+msgstr "记录已删除"
+
+#: admin/class-faulh-admin.php:137
+msgid "Record(s) deleted."
+msgstr "记录已删除"
+
+#: public/partials/listing.php:27 admin/partials/form/filter.php:90
+msgid "RESET"
+msgstr "重置"
+
+#: includes/class-faulh-db-helper.php:57
+msgid "Role while user gets logged in"
+msgstr "用户登录时的角色"
+
+#: admin/partials/help.php:99
+msgid "Search The Forum"
+msgstr "在论坛搜索"
+
+#: admin/partials/form/filter.php:48
+msgid "Select Current Role"
+msgstr "选择当前角色"
+
+#: admin/partials/form/filter.php:67
+msgid "Select Login Status"
+msgstr "选择登录状态"
+
+#: admin/partials/form/filter.php:58
+msgid "Select Old Role"
+msgstr "选择老角色"
+
+#: admin/partials/form/filter.php:75
+msgid "Select Super Admin"
+msgstr "选择超级管理员"
+
+#: admin/class-faulh-user-profile.php:78 public/partials/listing.php:48
+#: admin/partials/form/filter.php:43
+msgid "Select Timezone"
+msgstr "选择时区"
+
+#: admin/partials/about.php:30
+msgid "Session Duration"
+msgstr "会话持续时间"
+
+#: admin/class-faulh-admin.php:211
+msgid "Settings updated successfully."
+msgstr "设置更新成功"
+
+#: admin/partials/about.php:45
+msgid "Shortcode"
+msgstr "短代码"
+
+#: admin/partials/help.php:43
+msgid "Shortcode Parameters:"
+msgstr "短代码参数："
+
+#: admin/partials/help.php:90
+msgid ""
+"Since we have added a new column \"Login Status\" in the version 1.7.0, its "
+"value will be empty in the database table after upgrading to 1.7.0. To "
+"filter such records, you can use this status."
+msgstr ""
+"因为我们在1.7.0版本中添加了一个新的“登录状态”列，所以在升级到1.7.0之后，它在数据库表中的值将为空。要筛选这些记录，可以使用此状态。"
+
+#: admin/partials/about.php:42
+msgid "Some More Useful Features:"
+msgstr "一些更有用的功能："
+
+#: admin/partials/about.php:79
+msgid "Submit Your Review"
+msgstr "提交您的评论"
+
+#: includes/class-faulh-abstract-list-table.php:527
+msgid "Super Admin"
+msgstr "超级管理员"
+
+#: includes/class-faulh-db-helper.php:72
+msgid "Super Admin (?)"
+msgstr "超级管理员(?)"
+
+#: includes/class-faulh-db-helper.php:72
+msgid "Super admin role while user gets logged in"
+msgstr "用户登录时的超级管理员角色"
+
+#: admin/partials/form/filter.php:54 admin/partials/form/filter.php:64
+msgid "Super Administrator"
+msgstr "超级管理员"
+
+#: admin/partials/about.php:45
+#, php-format
+msgid ""
+"The plugin comes with a customizable shortcode that you can use in your "
+"template or content to view the login history of current logged in user. For "
+"more detail, please see the %1$sHelp%2$s page."
+msgstr "该插件附带了一个可自定义的短代码，您可以在模板或内容中使用它来查看当前登录用户的登录历史记录。有关详细信息，请参阅帮助页。"
+
+#: admin/partials/about.php:23
+msgid ""
+"The plugin helps you to track any visitor's login details with the following "
+"attributes:"
+msgstr "该插件可帮助您使用以下属性跟踪任何访问者的登录详细信息："
+
+#: admin/partials/about.php:34
+msgid "The role while user gets logged in into your website."
+msgstr "用户登录到您的网站时的角色。"
+
+#: admin/partials/help.php:84
+msgid ""
+"This is used for multisite network. \n"
+"By default, a user can login to any blog and then wordpress redirects to the "
+"blog on which the user is associated. \n"
+"The plugin saves login info at the blog on which the user logged in but "
+"cannot not save the information of the blog on which wordpress redirects the "
+"user. \n"
+"You can prevent this behavior by using the plugin setting."
+msgstr ""
+"这用于多站点网络。\n"
+"\n"
+"默认情况下，用户可以登录到任何博客，然后WordPress重定向到与用户关联的博客。\n"
+"\n"
+"该插件在用户登录的日志中保存登录信息，但不能保存WordPress重定向用户的日志信息。\n"
+"\n"
+"您可以使用插件设置来防止这种行为。"
+
+#: admin/class-faulh-user-profile.php:83
+msgid ""
+"This is used to convert date-time (e.g. login time, last seen time etc.) on "
+"the listing table."
+msgstr "这用于转换列表表上的日期时间（例如登录时间、上次看到的时间等）。"
+
+#: includes/class-faulh-abstract-list-table.php:120
+#: public/partials/listing.php:46
+msgid "This table is showing time in the timezone"
+msgstr "这张表显示的是时区内的时间"
+
+#: public/class-faulh-public-list-table.php:358
+#: includes/class-faulh-abstract-list-table.php:519
+#: admin/class-faulh-user-profile.php:75 admin/partials/about.php:39
+msgid "Timezone"
+msgstr "时区"
+
+#: includes/class-faulh-db-helper.php:62
+msgid "Timezone (?)"
+msgstr "时区(?)"
+
+#: admin/partials/help.php:46
+msgid "Title of the listing table."
+msgstr "列表的标题。"
+
+#: public/partials/listing.php:18 admin/partials/form/filter.php:20
+msgid "To"
+msgstr "至"
+
+#: admin/partials/help.php:23
+msgid ""
+"To see all the tracked records in admin, click on the plugin menu shown in "
+"the left sidebar."
+msgstr "要在admin中查看所有跟踪记录，请单击左侧边栏中显示的插件菜单。"
+
+#: admin/partials/help.php:26
+msgid ""
+"To see all the tracked records of current logged in users in frontend, use "
+"the following shortcode:"
+msgstr "要查看前端当前登录用户的所有跟踪记录，请使用以下短代码："
+
+#: includes/class-faulh-db-helper.php:59
+msgid "To track country name, \"Geo Tracker\" setting must be enabled."
+msgstr "要跟踪国家/地区名称，必须启用“地理跟踪器”设置。"
+
+#: includes/class-faulh-db-helper.php:62
+msgid "To track timezone, \"Geo Tracker\" setting must be enabled."
+msgstr "要跟踪时区，必须启用“地理跟踪器”设置。"
+
+#: admin/partials/about.php:52
+msgid "Translations"
+msgstr "翻译"
+
+#: admin/partials/help.php:90 admin/partials/form/filter.php:44
+#: admin/partials/form/filter.php:69
+msgid "Unknown"
+msgstr "未知的"
+
+#: includes/class-faulh-db-helper.php:63
+#: includes/class-faulh-abstract-list-table.php:525
+msgid "User Agent"
+msgstr "用户代理"
+
+#: includes/class-faulh-db-helper.php:54
+#: includes/class-faulh-abstract-list-table.php:509 admin/partials/about.php:31
+msgid "User ID"
+msgstr "用户ID"
+
+#. Name of the plugin
+msgid "User Login History"
+msgstr "用户登录历史"
+
+#: admin/partials/settings/network-admin.php:22
+msgid "User will not be able to login on another blog on the network."
+msgstr "用户将无法登录网络上的其他博客。"
+
+#: includes/class-faulh-db-helper.php:55
+#: includes/class-faulh-abstract-list-table.php:510 admin/partials/about.php:32
+msgid "Username"
+msgstr "用户名"
+
+#: admin/partials/help.php:52
+msgid ""
+"Whether you want to show timezone selector or not. Any value other than "
+"\"true\" will be treated as \"false\". Default is:"
+msgstr "是否显示时区选择器。除“真”以外的任何值都将被视为“假”。默认为："
+
+#. URI of the plugin
+msgid "www.userloginhistory.com"
+msgstr "www.userloginhistory.com官网"
+
+#: includes/class-faulh-template-helper.php:136
+msgid "Yes"
+msgstr "是"
+
+#: admin/partials/about.php:63
+msgid "You can reach me through the following links:"
+msgstr "您可以通过以下链接与我联系："
+
+#: admin/partials/about.php:44
+msgid ""
+"You can select your preferred timezone to be used for the listing table."
+msgstr "您可以选择要用于列表表的首选时区。"
